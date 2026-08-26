@@ -1,7 +1,0 @@
-numpy>=1.24
-scipy>=1.10
-scikit-learn>=1.3
-pandas>=2.0
-matplotlib>=3.7
-# HyperNetX 2.3.13 ships hypergraph_modularity (Kumar/KPT); newer 2.4.x drops it.
-hypernetx==2.3.13
